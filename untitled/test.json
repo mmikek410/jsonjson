@@ -1,0 +1,27 @@
+{
+  "name": "Test File",
+  "cards": [
+    {
+      "name": "Anton Antonov",
+      "card": 1111222233334444,
+      "type": "Visa",
+      "Balance": 21027
+
+    },
+    {
+      "name": "Andrey Andreev",
+      "card": 4444333322221111,
+      "type": "Visa",
+      "Balance": 148765
+
+    },
+    {
+      "name": "Denis Denisov",
+      "card": 3333444455556666,
+      "type": "MasterCard",
+      "Balance": 3409
+
+    }
+  ]
+
+}
